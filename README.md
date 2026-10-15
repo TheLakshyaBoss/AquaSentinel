@@ -1,4 +1,4 @@
-# AquaSentinantal
+# AquaSentinel
 A smart system created to monitor and detect leaks in underground pipes.
 
 It monitors realtime vibrational values of two points at a distance to determine leak in the middle part (underground). We used SW-420 vibration module to get the vibrational values and analysis it in real time to predict a leak accurately.
